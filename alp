@@ -1,0 +1,3 @@
+alp=input('Enter the Charecter ')
+valu=ord(alp)
+#if ((val >=65 and val <=90)||(val >= 97 and val<= 120))
